@@ -67,6 +67,9 @@ awesome-terminal-fonts
 dmenu
 arcolinux-logout-git
 clipmenu
+arcolinux-spectrwm-git
+arcolinux-spectrwm-dconf-git
+arcolinux-config-spectrwm-git
 )
 
 count=0

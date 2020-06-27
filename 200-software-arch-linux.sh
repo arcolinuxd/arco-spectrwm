@@ -73,7 +73,6 @@ list=(
 atom
 meld
 sublime-text-dev
-
 )
 
 count=0
@@ -107,17 +106,7 @@ func_category Internet
 list=(
 chromium
 qbittorrent
-firefox
-evolution
-catfish
-picom
-vlc
-vivaldi
-spotify
-virtualbox
 rofi
-caffeine
-pragha
 )
 
 count=0
