@@ -70,6 +70,7 @@ clipmenu
 arcolinux-spectrwm-git
 arcolinux-spectrwm-dconf-git
 arcolinux-config-spectrwm-git
+sxhkd
 )
 
 count=0
