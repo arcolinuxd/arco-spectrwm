@@ -67,7 +67,7 @@ arcolinux-logout-git
 clipmenu
 arcolinux-spectrwm-git
 arcolinux-spectrwm-dconf-git
-arcolinux-config-spectrwm-git
+arcolinux-config-all-desktops-git
 sxhkd
 )
 
