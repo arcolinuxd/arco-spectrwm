@@ -63,7 +63,7 @@ polybar
 arcolinux-polybar-git
 awesome-terminal-fonts
 dmenu
-arcolinux-logout-git
+archlinux-logout-git
 clipmenu
 arcolinux-spectrwm-git
 arcolinux-dconf-all-desktops-git
