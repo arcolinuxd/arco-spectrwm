@@ -106,7 +106,7 @@ func_category Internet
 list=(
 chromium
 qbittorrent
-rofi
+rofi-lbonn-wayland
 )
 
 count=0
